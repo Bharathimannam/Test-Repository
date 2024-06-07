@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE Rule PUBLIC "sailpoint.dtd" "sailpoint.dtd">
+<Rule created="" id="" language="beanshell" modified="" name="Americana-CrunchTime-custamization rule">
+  <Source>
+
+log.error("crunch time customization rule");
+
+</Source>
+</Rule>
