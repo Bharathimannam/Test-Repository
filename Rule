@@ -4,6 +4,7 @@
   <Source>
 
 log.error("crunch time customization rule");
+log.error("hi");
 
 </Source>
 </Rule>
